@@ -20,7 +20,7 @@
 
 성공적으로 이미지에 노이즈를 제거했을때의 이미지
 
-
+![Image](https://github.com/user-attachments/assets/13438280-0945-4fc4-9335-8871651690a7)
 
 결과
 
