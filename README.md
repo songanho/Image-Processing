@@ -42,10 +42,25 @@ Low-pass 필터링을 통해 이미지를 부드럽게 만들었을때의 예상
 
 High-pass 필터링을 통해 이미지를 부드럽게 만들었을때의 예상 이미지
 
+![Image](https://github.com/user-attachments/assets/aded8a38-1bb5-4026-9cde-dd58348989cd)
+
+결과
+
+[output4.bmp](https://github.com/user-attachments/files/23243742/output4.bmp)
+
+
+### 5. 2D DFT(이산 퓨리에 변환)를 통해 공간 영역에서 주파수 영역으로 변환
+
+2D DFT를 통해 공간 영역에서 주파수 영역으로 변환할 시 예상 이미지
+
 
 
 결과
 
+
+
+
+### 6. 2D IDFT(역변환)를 통해 공간 영역에서 주파수 영역으로 변환
 
 
 
