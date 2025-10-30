@@ -12,3 +12,5 @@
 ![Image](https://github.com/user-attachments/assets/a6f82d04-0fd9-4240-9309-12d6ef9790b0)
 
 결과
+
+[output1.bmp](https://github.com/user-attachments/files/23243667/output1.bmp)
