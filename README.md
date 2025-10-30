@@ -13,7 +13,7 @@
 
 결과
 
-[output1.bmp](https://github.com/user-attachments/files/23243667/output1.bmp)
+![output1.bmp](https://github.com/user-attachments/files/23243667/output1.bmp)
 
 
 ### 2. 추가한 Noise를 1D 필터링을 통해 제거
