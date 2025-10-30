@@ -64,4 +64,4 @@ High-pass 필터링을 통해 이미지를 부드럽게 만들었을때의 예�
 
 2D IDFT를 통해 이미지를 원상복구 시킨 결과
 
-
+![output_inverseDFT.bmp](https://github.com/user-attachments/files/23243771/output_inverseDFT.bmp)
