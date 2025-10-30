@@ -7,7 +7,7 @@
 
 ### 1. Noise 추가
 
-성공적으로 이미지에 코사인 노이즈를 추가했을때의 이미지
+성공적으로 이미지에 코사인 노이즈를 추가했을때의 예상 이미지
 
 ![Image](https://github.com/user-attachments/assets/a6f82d04-0fd9-4240-9309-12d6ef9790b0)
 
@@ -18,11 +18,24 @@
 
 ### 2. 추가한 Noise를 1D 필터링을 통해 제거
 
-성공적으로 이미지에 노이즈를 제거했을때의 이미지
+성공적으로 이미지에 노이즈를 제거했을때의 예상 이미지
 
 ![Image](https://github.com/user-attachments/assets/13438280-0945-4fc4-9335-8871651690a7)
 
 결과
+
+[output2.bmp](https://github.com/user-attachments/files/23243702/output2.bmp)
+
+
+### 3. Low-pass 필터
+
+Low-pass 필터링을 통해 이미지를 부드럽게 만들었을때의 예상 이미지
+
+
+
+결과
+
+
 
 
 
