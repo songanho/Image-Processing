@@ -60,7 +60,7 @@ High-pass 필터링을 통해 이미지의 엣지 부분을 검출했을때의 �
 ![output_DFT-magnitude.bmp](https://github.com/user-attachments/files/23243767/output_DFT-magnitude.bmp)
 
 
-### 6. 2D IDFT(역변환)를 통해 공간 영역에서 주파수 영역으로 변환
+### 6. 2D IDFT(역변환)를 통해 주파수 영역에서 공간 영역으로 다시 변환
 
 2D IDFT를 통해 이미지를 원상복구 시킨 결과
 
