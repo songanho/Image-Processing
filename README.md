@@ -35,6 +35,17 @@ Low-pass 필터링을 통해 이미지를 부드럽게 만들었을때의 예상
 
 결과
 
+[output3.bmp](https://github.com/user-attachments/files/23243725/output3.bmp)
+
+
+### 4. High-pass 필터
+
+High-pass 필터링을 통해 이미지를 부드럽게 만들었을때의 예상 이미지
+
+
+
+결과
+
 
 
 
