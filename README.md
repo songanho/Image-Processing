@@ -31,7 +31,7 @@
 
 Low-pass 필터링을 통해 이미지를 부드럽게 만들었을때의 예상 이미지
 
-
+![Image](https://github.com/user-attachments/assets/d098f121-842f-49aa-a2ba-5db2cab5b1a9)
 
 결과
 
