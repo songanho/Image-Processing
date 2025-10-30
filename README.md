@@ -40,7 +40,7 @@ Low-pass 필터링을 통해 이미지를 부드럽게 만들었을때의 예상
 
 ### 4. High-pass 필터
 
-High-pass 필터링을 통해 이미지를 부드럽게 만들었을때의 예상 이미지
+High-pass 필터링을 통해 이미지의 엣지 부분을 검출했을때의 예상 이미지
 
 ![Image](https://github.com/user-attachments/assets/aded8a38-1bb5-4026-9cde-dd58348989cd)
 
