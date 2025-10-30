@@ -7,10 +7,23 @@
 
 ### 1. Noise 추가
 
-이미지에 코사인 노이즈를 추가하기
+성공적으로 이미지에 코사인 노이즈를 추가했을때의 이미지
 
 ![Image](https://github.com/user-attachments/assets/a6f82d04-0fd9-4240-9309-12d6ef9790b0)
 
 결과
 
 [output1.bmp](https://github.com/user-attachments/files/23243667/output1.bmp)
+
+
+### 2. 추가한 Noise를 1D 필터링을 통해 제거
+
+성공적으로 이미지에 노이즈를 제거했을때의 이미지
+
+
+
+결과
+
+
+
+
